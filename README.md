@@ -7,6 +7,8 @@ Quizvragen is gemaakt door [Haroen Viaene](https://github.com/haroenv) in opdrac
 
 Er zijn directories per onderwerp (algemeen, geschiedenis, wetenschap), met daaronder ook subdirectories. In elk van de einddirectories zijn er twee bestanden te vinden, namelijk `vragen.txt` en `antwoorden.txt`. Vragen en antwoorden staan op dezelfde lijn. Nummering van de regels begint aan `000` voor makkelijkere ordening.
 
+JWR-eigen vragen zitten in [/wetenschap/astronomie](/wetenschap/astronomie) en [/wetenschap/ruimtevaart](/wetenschap/ruimtevaart)
+
 ## Fotorondes
 
 Voor fotorondes is er in de directory een subdirectory die `vragen/` heet. Daarin zitten al de foto's genummerd. De antwoorden staan in dezelfde directory als de subdirectory vragen zit.
