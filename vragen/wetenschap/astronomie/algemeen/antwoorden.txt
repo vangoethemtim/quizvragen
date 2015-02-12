@@ -3,3 +3,4 @@
 De afstand van de aarde tot de zon
 Een natuurlijke satelliet van Jupiter
 Eerste kwartier
+57,5 dagen //check
