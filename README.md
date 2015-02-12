@@ -21,8 +21,8 @@ Er zijn vragen genomen van onder andere:
 
 * Overgeërfd van DSM3x4:
 
-	* [Users.telenet.be/quizvragen](http://users.telenet.be/quizvragen/)
-	* [Leuke-quizvragen.be](http://www.leuke-quizvragen.be/)
+	* [Users.telenet.be/quizvragen](http://users.telenet.be/quizvragen/) (down)
+	* [Leuke-quizvragen.be](http://www.leuke-quizvragen.be/) (down)
 	* [Quivraag.be](http://www.quizvraag.be/)
 
 # Licentie
