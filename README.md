@@ -1,7 +1,7 @@
 # Quizvragen
 Quizvragen in het Nederlands over wetenschap, techniek, ruimte en actualiteit (toegespitst op België)
 
-Quizvragen gemaakt door [Haroen Viaene](https://github.com/haroenv) in opdracht van [JWR](http://jwronline.be) (Jeugdwerkgroep Ruimtevaart v.z.w.) te Brugge.
+Quizvragen is gemaakt door [Haroen Viaene](https://github.com/haroenv) in opdracht van [JWR](http://jwronline.be) (Jeugdwerkgroep Ruimtevaart v.z.w.) te Brugge.
 
 # Organisatie
 
@@ -13,7 +13,7 @@ Voor fotorondes is er in de directory een subdirectory die `vragen/` heet. Daari
 
 # Toepassing in quizprogramma's
 
-In de toekomst kan er een script gemaakt worden, waarin je vragen kan kiezen binnen een bepaalde onderwerpen, en die worden dan voor gebruik in programma's als bijvoorbeeld [DSM3x4](https://deslimstemens.wordpress.com/) (een De Slimste Mens clone), of een powerpoint.
+In de toekomst kan er een script gemaakt worden, waarin je vragen kan kiezen binnen bepaalde onderwerpen, en die worden dan voor gebruik in programma's als bijvoorbeeld [DSM3x4](https://deslimstemens.wordpress.com/) (een De Slimste Mens clone), of een powerpoint.
 
 # Vragen die niet zelf gemaakt zijn
 
