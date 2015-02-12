@@ -13,7 +13,7 @@ Voor fotorondes is er in de directory een subdirectory die `vragen/` heet. Daari
 
 # Toepassing in quizprogramma's
 
-In de toekomst kan er een script gemaakt worden, waarin je vragen kan kiezen binnen een bepaalde onderwerpen, en
+In de toekomst kan er een script gemaakt worden, waarin je vragen kan kiezen binnen een bepaalde onderwerpen, en die worden dan voor gebruik in programma's als bijvoorbeeld [DSM3x4](#) (een De Slimste Mens clone), of een powerpoint.
 
 # Licentie
 
