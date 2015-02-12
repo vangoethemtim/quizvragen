@@ -1,1 +1,2 @@
 300 000 000 km/s //check
+Het punt in een baan rond de aarde waarbij het object het verste is. //check
