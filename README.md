@@ -15,6 +15,16 @@ Voor fotorondes is er in de directory een subdirectory die `vragen/` heet. Daari
 
 In de toekomst kan er een script gemaakt worden, waarin je vragen kan kiezen binnen een bepaalde onderwerpen, en die worden dan voor gebruik in programma's als bijvoorbeeld [DSM3x4](#) (een De Slimste Mens clone), of een powerpoint.
 
+# Vragen die niet zelf gemaakt zijn
+
+Er zijn vragen genomen van onder andere:
+
+* Overgeërfd van DSM3x4:
+
+	* [Users.telenet.be/quizvragen](http://users.telenet.be/quizvragen/)
+	* [Leuke-quizvragen.be](http://www.leuke-quizvragen.be/)
+	* [Quivraag.be](http://www.quizvraag.be/)
+
 # Licentie
 
 CC0 - Voeg zelf zeker vragen toe als je dat wil!
