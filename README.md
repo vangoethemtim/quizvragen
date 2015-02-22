@@ -29,4 +29,6 @@ Er zijn vragen genomen van onder andere:
 
 # Licentie
 
-CC0 - Voeg zelf zeker vragen toe als je dat wil!
+CC0 1.0 Universal (zie LICENSE file)
+
+Dit wil zeggen dat je zelf niet geremd moet voelen om quizvragen toe te voegen, zend gewoon een pull request.
