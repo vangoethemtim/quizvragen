@@ -29,6 +29,6 @@ Er zijn vragen genomen van onder andere:
 
 # Licentie
 
-CC0 1.0 Universal (zie LICENSE file)
+CC0 1.0 Universal (zie [LICENSE](LICENSE) file)
 
 Dit wil zeggen dat je zelf niet geremd moet voelen om quizvragen toe te voegen, zend gewoon een pull request.
