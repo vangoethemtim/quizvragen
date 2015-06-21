@@ -35,7 +35,7 @@ Hoeveel landen hebben een ruimtevaarder?
 Wie was de tweede mens om op de maan rond te wandelen?
 Welke datum was de apollo 11 geland (Belgische tijd)+extra punt voor het juiste uur/dag vd week
 Wat was de eerste sonde om op mars te landen en beeld door te sturen?
-Welke sonde landde als eerste op Venus en stuurde beeld terug naar de aarde? 
+Welke sonde landde als eerste op Venus en stuurde beeld terug naar de aarde?
 Welk land heeft de meeste ruimtevaarders?
 Welk land heeft het meeste dagen in de ruimte verbleven?
 Wat is de naam van de Europese ruimtevaartorganisatie (naam en afkorting)?
@@ -51,3 +51,6 @@ Wat is Spacelab?
 Wat is Skylab?
 Noem twee ruimtevaartlanden die NIET meedoen aan het ISS-project.
 Hoe heette de eerste Belgische satelliet?
+Hoe heet het grootste ruimtestation?
+Wat was de naam van het eerste ruimtestation?
+Welke diersoort maakte als eerste een reis door de ruimte?
