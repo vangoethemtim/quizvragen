@@ -9,6 +9,10 @@ Er zijn directories per onderwerp (algemeen, geschiedenis, wetenschap), met daar
 
 JWR-eigen vragen zitten in [vragen/wetenschap/astronomie](vragen/wetenschap/astronomie) en [vragen/wetenschap/ruimtevaart](vragen/wetenschap/ruimtevaart)
 
+## JSON
+
+Er is nu ook een JSON-geordende organisatie van de vragen om het programmatisch makkelijker te maken om vragen te gebruiken. Hierin zitten echter nog niet veel vragen.
+
 ## Fotorondes
 
 Voor fotorondes is er in de directory een subdirectory die `vragen/` heet. Daarin zitten al de foto's genummerd. De antwoorden staan in dezelfde directory als de subdirectory vragen zit. Nummering van foto's moet aan `000` beginnen voor makkelijkere ordening.
