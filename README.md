@@ -27,6 +27,10 @@ Er zijn vragen genomen van onder andere:
 	* [Leuke-quizvragen.be](http://www.leuke-quizvragen.be/) (down)
 	* [Quivraag.be](http://www.quizvraag.be/)
 
+* Andere plaatsen
+	* http://www.esa.int/esaKIDSnl/SEMWDXU7D7F_q.html
+	* http://wibnet.nl/heelal/astronomie/test-je-kennis-ruimtevaart
+
 # Licentie
 
 CC0 1.0 Universal (zie [LICENSE](LICENSE) file)
