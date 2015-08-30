@@ -470,6 +470,16 @@
             }
           ]
         }
+      ],
+      "algemeen": [
+        {
+          "vraag": "Wat is de snelheid van het licht? (eenheden niet vergeten!)",
+          "antwoord": "300 000 000 km/s //check"
+          },
+          {
+          "vraag": "Wat is het perigeum?",
+          "antwoord": "Het punt in een baan rond de aarde waarbij het object het verste is. //check"
+        }
       ]
     }
   ]
