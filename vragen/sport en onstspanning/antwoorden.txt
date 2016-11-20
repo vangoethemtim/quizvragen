@@ -27,7 +27,6 @@
 10
 10
 10
-10
 11
 12
 18
@@ -56,7 +55,6 @@
 (Richard) Burns
 (Sergiy) Lebid  (Oekraïener)
 0 – 0
-1 punt
 1 punt
 10 kilometer
 11 meter
@@ -181,7 +179,6 @@ Duo
 Ecclestone
 Eddy Anijs
 Eddy Lejeune
-Eddy Merckx
 Eddy Merckx
 Eddy Merckx
 Eddy Merckx
@@ -316,7 +313,6 @@ Lara Croft
 Lasse Viren
 Laurent
 Laurier
-Leer
 Leer
 Leeuw
 Lego
@@ -473,7 +469,6 @@ Strike
 Sumo worstelen
 Sydney
 Sydney
-Sydney
 't Kuipke
 Tafeltennis
 Tafeltennis
@@ -497,11 +492,8 @@ Tom Simpson
 Tom Steels
 Tooghangen
 Tourist Trophy
-Tourist Trophy.
-Touwtje springen
 Touwtjespringen
 Trabzonspor
-Twee
 Twee
 Tweede
 Uno
