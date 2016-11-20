@@ -74,18 +74,18 @@
 180 °
 39 km
 5 jaar
-6 jaar 
+6 jaar
 6 miljoen
 6 weken na carnaval
 7 sec
-72 uur  
+72 uur
 90 cm
 A
 A
 A5
 Aal
 Aambeeld
-Aangetrouwde 
+Aangetrouwde
 Aarde
 Aaron
 Aarschot
@@ -95,7 +95,7 @@ Adam
 advent
 advocaat
 Afrika
-Afrika 
+Afrika
 Afstandsbediening
 Agent Orange
 Agfa
@@ -105,14 +105,14 @@ Albert
 Albert Einstein
 Alcatraz
 Aleksandr Litvinenko
-Alexandra Colen 
+Alexandra Colen
 Alfa Romeo
 Allemaal
 Allerheiligen
 Aloha
 Aloïs
 Alternative Graphics
-Aluminium 
+Aluminium
 Amandel
 Amandelen
 Amd
@@ -146,7 +146,7 @@ Auto
 Autowegen
 avocado
 Azië
-badkamer 
+badkamer
 Ballet
 Balpen
 Barbecue
@@ -154,7 +154,7 @@ Barbie
 Baron
 Basic
 Basiliek
-Bath 
+Bath
 België
 Beruchtheid
 Biefstuk met friet
@@ -193,12 +193,12 @@ Camembert
 Camilla
 Capsule
 Carnaval
-Carnaval 
+Carnaval
 Caroline Gennez
 Carrefour
 Castilianen
 CCCP
-Centraal-Noord-Zuid  
+Centraal-Noord-Zuid
 Centrifuge
 Che
 Chianti
@@ -208,7 +208,7 @@ China
 China
 China
 China
-Chinese 
+Chinese
 Christelijke Mutualiteit
 Chrysanten
 Cocaïne
@@ -217,7 +217,7 @@ Cognac
 Colosseum
 Colporteren
 Commonwealth
-Compact Disc 
+Compact Disc
 computer
 Confetti
 Conservenblik
@@ -227,7 +227,7 @@ Cosa Nostra
 Couque de Dinant
 Cuba
 Cuba
-Cycloop 
+Cycloop
 Dag
 Davidster
 De banketbakker
@@ -241,7 +241,7 @@ Delhaize
 Demeter
 Den Haag
 Denemarken
-Denemarken  
+Denemarken
 Derde
 Dertien
 Dertien
@@ -253,7 +253,7 @@ Diaspora
 Dinar
 Dirk Bikkembergs
 Dodelijke injectie
-Dom Perignon 
+Dom Perignon
 Dominique de Villepin
 Donkere kamer
 Douanier
@@ -268,7 +268,7 @@ Drietand
 Dronken
 Druiven
 Drum
-Duif 
+Duif
 Duits
 Duits
 Duits
@@ -277,15 +277,15 @@ Duitsland
 Duitsland
 Duiveltjeskermis
 E
-E17 
+E17
 E40
 Een
 Een
 Een
-Een Hamburger 
-Een Olifant  
+Een Hamburger
+Een Olifant
 Eendracht maakt macht
-Eetlust 
+Eetlust
 Egel
 Eierdooiers
 Eifeltoren
@@ -300,38 +300,38 @@ Engels
 Engels
 Engels
 Engels
-Eta 
+Eta
 Eten
 Eton
 Europese Economische Gemeenschap
-Europese Monetaire Stelsel 
+Europese Monetaire Stelsel
 Europese Monetaire Unie
 Ezel
 F
 F
 F
-F-16 
+F-16
 Fakkel
-Falconplein 
-Faraograven 
+Falconplein
+Faraograven
 Februari
 Federal Bureau of Investigation
-Fehriye Erdal 
+Fehriye Erdal
 Ferdinand Tierenteyn
 Filip
 Finland
 Finland, IJsland Noorwegen en Zweden
-FL 
+FL
 Flesje
 Florentijn
 Florida
-Florijn 
+Florijn
 Ford S-Max
 Fort Knox
 Fout
 Fout
 Fout
-Fout  
+Fout
 Foxtrot
 Frans
 Frans
@@ -342,7 +342,7 @@ Frontpage
 Fuhrer
 Gamma
 Gans
-Gans 
+Gans
 Ganzenlever
 Gaucho
 Gedaanteverwisseling
@@ -351,7 +351,7 @@ Geel
 Geeltje
 Geen
 Geen
-Geen 
+Geen
 Geen enkele
 Geen verschil
 Geit
@@ -362,14 +362,14 @@ Genie
 Gent
 Geschrift
 Gibraltar
-Gist 
+Gist
 Gisten
 Globe
 Gondel
 Goud
-Goulash 
+Goulash
 Gouverneur
-Graffito 
+Graffito
 Gratin Dauphinois
 Greenwich mean time
 Griekenland
@@ -379,7 +379,7 @@ Griekenland
 Griekenland
 Griekse dans
 Grijs
-Grimaldi 
+Grimaldi
 Groen
 Groen
 Groen
@@ -395,7 +395,7 @@ Gymnasium
 H
 Haan
 Haar
-Haggis 
+Haggis
 Haïti
 Haka
 Hamer en Sikkel
@@ -403,14 +403,14 @@ Hangar
 Harley Davidson
 Harold Shipman
 Harpoen
-Havana 
+Havana
 Hawaï
 Hebben spraakangst
 Heidi Klum
 Heifer
 Heilige Theresa
 Hemel
-Herman De Croo 
+Herman De Croo
 Hersencellen
 Hersenschade
 Het Laatste Nieuws
@@ -426,7 +426,7 @@ Hondsdagen
 Hooi
 Hoorn
 Hop
-Hop 
+Hop
 Hormonen
 Hovercraft
 Huid
@@ -434,7 +434,7 @@ Huifkar
 Hutsepot
 Ierland
 Iers en Engels
-IJzer 
+IJzer
 In België
 In het midden
 In serie
@@ -443,10 +443,10 @@ Index librorum prohibitorum
 India
 India
 India
-India 
+India
 Indianenstammen
 Indonesië
-Instapkaart  
+Instapkaart
 INTegrated ELectronics
 Intelligentie Quotiënt
 Intercity-Interregio
@@ -454,11 +454,11 @@ Internet Relay Chat
 Interpol
 Inuit
 Irak
-Iris 
+Iris
 Israël
 Italiaans
 Italiaans
-Italiaans 
+Italiaans
 Italië
 Italië
 Italië
@@ -468,11 +468,11 @@ Italië
 Ja
 Ja
 Ja
-Ja 
+Ja
 Jaguar
 Jantje
 Japan
-Japan 
+Japan
 Jean-Paul Gaultier
 Jeans
 Jenever
@@ -486,10 +486,10 @@ Juan Carlos
 Juist
 Juist
 Jules Destrooper
-Juli 
+Juli
 Julia
 Juni
-Kaars 
+Kaars
 Kaars met prikkeldraad
 Kaas
 Kajak
@@ -501,7 +501,7 @@ Kapper
 Kapstok
 Kastanjes
 Kaviaar
-Kazen 
+Kazen
 Kbps
 Kersen
 Kerstman
@@ -519,14 +519,14 @@ Klaren
 Klavertje vier
 Klavertjevier
 Klepje aan helm
-KMI 
+KMI
 KNMI
 Knoflook
 Koe
 Koe
 Koeien hoeden
 Koffie
-Koffie 
+Koffie
 Kombuis
 Komma
 Konfijten
@@ -542,10 +542,10 @@ Kreeft, Leeuw, Maagd
 Kroepoek
 Krokodil
 Kroon
-Kroonprinsen 
+Kroonprinsen
 Kruikenzeikers
 Ku klux klan
-Kwispedoor 
+Kwispedoor
 L
 L
 La Trappe
@@ -553,7 +553,7 @@ Lampion
 Lasso
 Laurent
 Lavendel
-Lawine 
+Lawine
 Leeuw
 Leeuw
 Lek
@@ -571,12 +571,12 @@ Lonsdale
 Luistervink
 Luitenant ter Zee
 Luitenants-adjudanten
-Luiwammes 
+Luiwammes
 Maagd
-Maan 
+Maan
 Maart
 Macromedia
-Mahonie  
+Mahonie
 Malta
 Mammoet
 Maredsous
@@ -585,7 +585,7 @@ McDonalds
 Medellin
 Meer fouten
 Mei
-Mei 
+Mei
 Melk
 Melk
 Melkdistel
@@ -600,7 +600,7 @@ Mobilhome
 Mocassins
 Modem
 Modulator demodulator
-Moeder 
+Moeder
 Mohair
 Mohammed
 Mohammed Khatami
@@ -608,7 +608,7 @@ Monegask
 Monopolie
 Monteren
 Mooi en hard genoeg
-Moskee 
+Moskee
 Mot
 Motel
 Mozzarella
@@ -624,19 +624,19 @@ Nee
 Nee
 Nee
 Nee
-Nee 
+Nee
 Neef
-Neen 
+Neen
 Negen
 Negen
 Neonazi
 Nescafe
 Nessie
-Nestel 
+Nestel
 Nicht
 Niets
 Niets
-Niets 
+Niets
 Nieuwjaarsbrief
 Nokia
 Noodgeval
@@ -647,20 +647,20 @@ Nougat
 Nudisten
 Nul
 Nul
-Nul  
+Nul
 Ogen
 Olie
 Om beter te zien
 om de 4 jaar
 Om te horen
-Omega 
+Omega
 Oneindig
 Oorbellen
 Op een vliegveld
 Oranje
 Oranje
 Orval
-Oscar 
+Oscar
 Oudejaarsavond
 Ouzo
 Overtocht
@@ -673,24 +673,24 @@ Papieren bruiloft
 Parijs
 Parijs
 Parijs
-Parijs 
+Parijs
 Parijs - Istanbul
 Pasen
 Paspoort
 Paters
 Paus
-Paus 
+Paus
 Pauw
 Pechvogel
 Pécrot
 Peer
 Pentagon
-Penthouse 
+Penthouse
 Permeke
 Peseta
 Picknick
 Pilzen/Plzen
-Pinksterbloem 
+Pinksterbloem
 Platina bruiloft
 Playboy
 Pleegt Zelfmoord
@@ -703,7 +703,7 @@ Poperinge
 Portugal
 Portugal
 Portugees
-Post Scriptum 
+Post Scriptum
 President
 Prins William
 Prostitutie
@@ -717,10 +717,10 @@ Ralph Lauren
 Ram
 Ram
 Rand
-Rechten 
+Rechten
 Rechts
 ReDaTtacK
-Regen  
+Regen
 Regenboog
 Reien
 Requiescat in pace
@@ -734,7 +734,7 @@ Rijst
 Rik Daems
 Rioja
 Roberts
-Rode 
+Rode
 Rode Plein
 Rood
 Rood
@@ -750,7 +750,7 @@ Roux
 Rubber
 Rudolf
 Rundvlees
-Rusland 
+Rusland
 Ryanair
 Sali Berisha
 Salmanazar
@@ -764,7 +764,7 @@ SAS
 Saxen-Coburg
 Scampo
 Schaal
-Schapen 
+Schapen
 Scherpzand
 Schildpadden
 Schildpadden
@@ -777,12 +777,12 @@ Schrijfgerief
 Senaat
 September
 Seriemoordenaar
-Seven Up 
+Seven Up
 Severino Antonori
 Sfinx
-Sfinx 
+Sfinx
 Shalom
-Shampoo 
+Shampoo
 Siamese vechtvissen
 Siberië
 Sieg-heil
@@ -792,7 +792,7 @@ Sinaasappelen
 Sinaasappels
 Singel
 Singer
-Sint Christoffel  
+Sint Christoffel
 Sint Niklaas
 Sjalot
 Sjalot
@@ -803,7 +803,7 @@ Smackbollen
 Smog
 SN Brussels Airlines
 Snoep
-Snow 
+Snow
 Sombrero
 Sorbonne
 Spaans
@@ -816,8 +816,8 @@ Sparrenbomen
 Spiegelbeeld
 Sporen
 Spraakkunst
-Sprekende klok 
-Springvorm 
+Sprekende klok
+Springvorm
 Squaw
 St Patrick
 St. Steven
@@ -832,8 +832,8 @@ Sterrenbeelden
 Stier
 Stijgbeugel
 Stille Oceaan
-Stopera 
-Stroopwafels 
+Stopera
+Stroopwafels
 Struik
 Suiker
 Sultana
@@ -842,13 +842,13 @@ Szofi Horvath
 Tabaksplant
 Tamil Tijgers
 Tango
-Tank 
+Tank
 Tante Kaat
 Taxfree winkel
 Taxiën
 Televisiebeeld
-Thabo Mbeki 
-The O² 
+Thabo Mbeki
+The O²
 Theodore
 Tiara
 Tien
@@ -856,7 +856,7 @@ Tien
 Tien
 Tienen
 Tipi
-Tomaten  
+Tomaten
 Tonbridge
 Tongeren
 Toonladder
@@ -869,7 +869,7 @@ Trappers
 Travestieshow
 Trollen
 Tropische Cycloon
-Truffels 
+Truffels
 Tuinieren
 Tulp
 Turkije
@@ -881,12 +881,12 @@ Twaalf
 Twee
 Twee
 Tweeklanken
-Ufo 
+Ufo
 Unicef
 Unicef
 Union Jack
 Universal Serial Bus
-Url 
+Url
 Vacuüm
 Valentijnskaartjes
 Valium
@@ -900,13 +900,13 @@ Varken
 Varkens
 Varkensvlees
 Varkensvlees
-Vasten 
+Vasten
 Vaticaan
 Veer
 Veertig
 Vergist
 Verkoudheid
-Vermicelli 
+Vermicelli
 Verstand
 Very Important Person
 Vichte
@@ -915,7 +915,7 @@ Vier
 Vier
 Vijf
 Vijf
-Vijf 
+Vijf
 Vijftien
 Vilvoorde
 Vingerhoed
@@ -924,7 +924,7 @@ Vlas
 Vliegbrevet
 Voetbalstadion
 Volkswagen
-Volkswagen 
+Volkswagen
 Voorhuidjogging
 Voorouders
 Vooruit
@@ -938,14 +938,14 @@ Water
 Water
 Water
 Waterloo Station
-Weegschaal 
+Weegschaal
 Weerberichten
 Weinstein
 Westerscheldetunnel
 Whisky
 Wijn
 Wijnen
-Wilhelmus 
+Wilhelmus
 William Booth
 Windsor
 Wisseling van wacht
@@ -954,9 +954,9 @@ Wit
 Wit
 Wit of roze
 Witte huis
-Wodka sinaasappelsap 
+Wodka sinaasappelsap
 Woestijn
-Won 
+Won
 Worchester
 World Wildlife Fund
 Yang
@@ -969,7 +969,7 @@ Zandmannetje
 Zaterdag
 Ze is blind
 Ze werd gedood
-Zebra 
+Zebra
 Zee-egel
 Zekering
 Zesentwintig
@@ -984,16 +984,16 @@ Zijden draadje
 Zilveren bruiloft
 Zomer
 Zon
-Zondag 
+Zondag
 Zonnewijzer
 Zuid-Korea
 Zuiver zilver is zacht
-Zulu 
+Zulu
 Zussen
 Zwaard
 Zwaarlijvigheid
 Zwarte Piet
 Zwijndrecht
 Zwitserland
-Zwitserland 
+Zwitserland
 Zwoord

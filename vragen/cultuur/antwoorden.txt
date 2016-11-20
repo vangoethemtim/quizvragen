@@ -18,15 +18,15 @@ Aesop
 Agatha  Christie
 Alan
 Albert Camus
-Alliteratie 
+Alliteratie
 Amerikaanse
 Andre Le Notre
 Andy Warhol
-Andy Warhol 
+Andy Warhol
 Anne Frank
 Anne Geddes
 Annie M.G. Schmidt
-Anton Tsjechov 
+Anton Tsjechov
 Appel
 Appie Baantjer
 Architectuur
@@ -36,12 +36,12 @@ Arthur Conan Doyle
 Australië
 auteur
 Badkamer
-Bakerstreet 221B, Londen   
+Bakerstreet 221B, Londen
 Ballerinas
 Barcelona
 Bauhaus
 Begga D’Haese
-Belg 
+Belg
 België
 België
 Beste architectuur
@@ -54,7 +54,7 @@ Boeken
 Bonn
 Botticelli
 Boy
-Bram Stoker 
+Bram Stoker
 Brazil
 Bret Easton Ellis
 Bruin
@@ -63,7 +63,7 @@ Campanile
 Caran D'Ache
 Chambres d'Amis
 Charles Dickens
-Claus 
+Claus
 Commedia dell'arte
 Conscience
 Constant Permeke
@@ -89,7 +89,7 @@ Dierenarts
 Dobby
 Documenta
 Don Quichot
-Dr. Moriarty 
+Dr. Moriarty
 Drie
 Dulcinea
 Durer
@@ -98,7 +98,7 @@ Edgar Rice Burroughs
 Edvard Eriksens
 Edvard Munch
 Een bord soep
-Een klop op de deur 
+Een klop op de deur
 Elisabeth Marain
 Emma
 Engels en Frans
@@ -108,17 +108,17 @@ Fauvisme
 Fleming
 Florence
 Florence
-Florence 
+Florence
 Fontein van Trevi
 François Haverschmidt
 Frankenstein
-Frankenstein 
+Frankenstein
 Franse
 Friedrich von Schiller
 Gala
 Geeuwen
 Genesis
-George Orwell 
+George Orwell
 George Sand
 Georges Simenon
 Gerard Reve
@@ -132,7 +132,7 @@ Günter Grass
 Gunter Wallraff
 Günter Wallraff
 Gustave Eiffel
-GVR 
+GVR
 Haarlem
 Hair
 Hamlet
@@ -140,7 +140,7 @@ Hamlet
 Hamlet
 Hamlet
 Hans Christian Andersen
-Hans Liberg 
+Hans Liberg
 Heer
 Heidi
 Heinz Hermann Polzer
@@ -156,7 +156,7 @@ Hij had blond haar
 Homerus
 Houtsnijkunst
 Hugo Claus
-Hugo Claus 
+Hugo Claus
 Ian Fleming
 Iers
 Intrede van Christus
@@ -168,7 +168,7 @@ Jean Dulieu of Jan van Oort
 Jeeves
 Johan Cruijff
 Johannes & Paul Nowee
-John Steinbeck 
+John Steinbeck
 Jonathan Swift
 Joseph Heller
 Jules Verne
@@ -185,7 +185,7 @@ Lente
 Leo Tolstoj
 Leonardo Da Vinci
 Leopold Bloom
-Lewis Caroll 
+Lewis Caroll
 Limerick
 Linkerkant
 Linkeroor
@@ -201,18 +201,18 @@ Lood
 Louis Paul Boon
 Louis Paul Boon
 Louis van den Bergh
-Louis XIV 
+Louis XIV
 Louvre
 Louvre
 Lupin
-Maarten 't Hart 
+Maarten 't Hart
 Macbeth
 Macbeth
 Macduff
 Madrid
 Manet
 Mao
-Mario Puzzo 
+Mario Puzzo
 Marnix Gijsen
 Martina Navratilova
 Mary Shelley
@@ -220,14 +220,14 @@ Mathilda
 Maurits Cornelis Escher
 Mens
 Meubelontwerper
-Meubels 
-Michel Rodange  
+Meubels
+Michel Rodange
 Michelangelo
 Michelangelo
 Michelangelo
 Michelangelo
 Michelangelo
-Michelangelo 
+Michelangelo
 Middelheim
 Miss Marple
 Mohikanen
@@ -236,12 +236,12 @@ Mona Lisa
 Mona Lisa
 Montmartre
 Montmartre
-Mozaïek 
+Mozaïek
 Nee
 Neus
 Noor
 Oberon
-Oberon 
+Oberon
 Orson Welles
 Ossip Zadkine
 Ovidius
@@ -252,10 +252,10 @@ Parijs
 Parijs
 Parthenon
 Parthenon
-Parthenon 
+Parthenon
 Paul Gaugin
 Paul van Loon
-Penseel Van De Liefde  
+Penseel Van De Liefde
 Perron 9 ¾
 Perzië
 Picasso
@@ -265,7 +265,7 @@ Pieter Aspe
 Pieter Breughel
 Pieter Paul Rubens
 Piggy
-Planten 
+Planten
 Poëzie
 Proloog
 Putti
@@ -274,15 +274,15 @@ Reinaert
 Relikwieën
 Rembrandt
 Rembrandt
-Rembrandt 
+Rembrandt
 Remus en Romulus
 Renga
 Richard Adams
 Rien Poortvliet
 Rik Wouters
-Roald Dahl 
+Roald Dahl
 Robert Jasper Grootveld
-Robert Louis Stevenson  
+Robert Louis Stevenson
 Robinson Crusoe
 Rodin
 Rodin
@@ -291,9 +291,9 @@ Rudyard Kipling
 Salman Rushdie
 Salvadore Dali
 Sancho Panza
-Saskia Uylenburgh 
+Saskia Uylenburgh
 Schilderkunst
-Schilderkunst  
+Schilderkunst
 Schlachten
 Schlieman
 Selma Lagerlöf
@@ -302,16 +302,16 @@ Sherlock Holmes
 Sherwood Forest
 Shogun
 Simon Carmiggelt
-Sir Arthur Conan Doyle  
+Sir Arthur Conan Doyle
 Slavernij
 Spaans
 Spaans
 Spanje
 Spanje
-Stephen King 
+Stephen King
 Stierenvechten
 Stradford-upon-Avon
-Tante Kaat  
+Tante Kaat
 Tatoeages
 Tennessee Williams
 Thea Beckman
@@ -324,22 +324,22 @@ Turner
 Turner
 Twee
 Utopia
-Utrecht 
-Varken 
+Utrecht
+Varken
 Veertien
 Veertig
 Venus Van Milo
 Vernissage
-Verona    
+Verona
 Victor Hugo
 Victor Hugo
 Vier
 Vier
 Vijf
-Vincent 
+Vincent
 Vincent Van Gogh
 Vincent Van Gogh
-Vincent van Gogh  
+Vincent van Gogh
 Viool
 Vioolbouwer
 Vlinders
@@ -348,7 +348,7 @@ Vrijdag
 Ward Ruyslinck
 Waterschapsheuvel
 Waterverf
-Waterverf 
+Waterverf
 Wenkbrauwen
 Westerns
 Winnetou
