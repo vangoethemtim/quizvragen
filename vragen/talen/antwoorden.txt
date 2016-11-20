@@ -1,13 +1,13 @@
 28
 6500
-Aardappelsoep  
+Aardappelsoep
 Absent
-Achteraf  
+Achteraf
 airhostess
 Albanië
 Alpha
 Amen
-Arabisch 
+Arabisch
 arena voor stierengevechten
 Armada
 Au Revoir
@@ -21,9 +21,9 @@ Blancheren
 Blok
 Bob et Bobette
 Boom
-Bravo 
+Bravo
 Brood
-Built Fucker 
+Built Fucker
 Camorra
 Castiliaans
 Chapeau
@@ -31,9 +31,9 @@ Chinees
 Chinees
 Coitus Interruptus
 Collectieve Arbeidsovereenkomst
-Como esta 
-Crouton 
-Dame Blanche 
+Como esta
+Crouton
+Dame Blanche
 Damestoilet
 Dampkap
 De bijentaal
@@ -50,7 +50,7 @@ Digital Versatile Disc (Oorspronkelijk Digital Video Disc, maar de DVD bleek al 
 Dim Sum
 Dit zijn keltische talen
 Djahé
-Dure prostituee 
+Dure prostituee
 Dwangarbeid
 Dyslexie
 Echolalie
@@ -61,7 +61,7 @@ een gondel
 Een kluit
 een platina bruiloft
 Engelenbak
-Eponiemen 
+Eponiemen
 Erratum
 España
 Esperanto
@@ -79,7 +79,7 @@ Handige mens
 Havengolf
 Het Letzebourgs
 Hexa
-Hirondelle 
+Hirondelle
 Hoeveel is het
 Huiszwaluw
 Ik heb veel geleden
@@ -91,7 +91,7 @@ Jewelcase
 Kalimera
 Kamikaze
 Kasjroet
-Kebab 
+Kebab
 Klein medicijnflesje
 Klikspaan of klapspaan
 Komboloi
@@ -100,10 +100,10 @@ Kondom
 Kopra
 Latijn
 Latijn
-Le syndicat d` initiative  
+Le syndicat d` initiative
 Les Pays-Bas
 Lex Talionis
-Liefje 
+Liefje
 Lorgnet
 Lunettes
 Maag opsnijden
@@ -118,11 +118,11 @@ Mouvement Réformateur
 Mute
 N
 Naar de stad
-Nee 
+Nee
 Negro
 Neusbloeding
 Nieuw Schotland
-Nijlpaard 
+Nijlpaard
 Noorderlicht
 Nosferatu
 Oceaan
@@ -132,7 +132,7 @@ Onamatopee
 Onze Vader
 Oostenrijk
 Oostenrijk
-Openheid  
+Openheid
 Origami
 Ostern
 Paardenrenbaan
@@ -140,26 +140,26 @@ Palindroom
 Paprika
 Paragrafen
 Pecora
-Peper  
+Peper
 Permafrost
 Petanque
 Pick-up
-Piekelkomkommerkie 
-Pileolus of Kalot 
+Piekelkomkommerkie
+Pileolus of Kalot
 Pisang
 Portugees
 Pronto
 Prosit
-Qu`est-ce c`est  
+Qu`est-ce c`est
 Ramadan
 Raser
 Rekening
 Roeibootje
 Roemenië
-Saadsokkie  
+Saadsokkie
 Saké of Sochu
 Scarabee
-Scheepje  
+Scheepje
 Schutzstaffel
 Shiitake
 SIDA
@@ -167,12 +167,12 @@ snelheidscontrole
 Sociaal Informatie Systeem
 Spaans
 Spaans
-Spaans 
+Spaans
 Spindel
 Spitzen zijn balletschoenen met verharde neuzen.
 Stad
 Stad
-Steenbok 
+Steenbok
 Stenenmaker
 Stijgen
 Suikerspin
@@ -180,10 +180,10 @@ Suikerspin
 Sunday
 Suriname
 T
-Tasbih  
+Tasbih
 Tautologie
-Telepuziki 
-To good for jou 
+Telepuziki
+To good for jou
 Toetsenbord
 Tong
 Trailer
@@ -192,7 +192,7 @@ Turks Fruit
 Uitlaat
 Un crayon
 Un gendarme
-Un lapin 
+Un lapin
 Un mois
 Vendetta
 Vergeltungswaffen/vergeldingswapen
@@ -209,7 +209,7 @@ Wafferietisdanna
 Wagyu
 Wasabi
 weekend
-Wijngaardslakken 
+Wijngaardslakken
 Wind van God
 X
 Yakult

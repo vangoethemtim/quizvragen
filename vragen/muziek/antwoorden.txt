@@ -12,7 +12,7 @@
 1991
 1995
 1995
- Eddy Wally  
+ Eddy Wally
 (David A.) Stewart
 192 meter of 1562 Khz
 20ste
@@ -20,24 +20,24 @@
 A Night At The Opera
 A rolling stone
 Aberdeen
-A-capella  
+A-capella
 Adam Duritz
-Adolphe Sax  
+Adolphe Sax
 aerobics
 Agneta, Anne Frida, Bjorn, Benny
-Alane 
+Alane
 Alanis Morisette
 Alicia Silverstone
 Alizee
 Alvin Lee
 Amandelen
 American pie
-Anastacia 
+Anastacia
 Anatevka
 Andrew Lloyd Webber
 Ann Christy
 Annie Lennox
-Anton Corbijn 
+Anton Corbijn
 Apache
 Aretha Franklin
 Art Garfunkel
@@ -49,11 +49,11 @@ Axl Peleman
 Band Zonder Naam
 Bart Kaëll
 Barthezz
-Bas 
+Bas
 Beatles
 Beatles
 Beethoven
-Beethoven 
+Beethoven
 Beiaard
 Belg
 Benny Goodman
@@ -67,7 +67,7 @@ Bob Marley
 Bob Marley and the Wailers
 Bob Marley and the Wailers
 Bobby Farrell
-Bon Scott 
+Bon Scott
 BrainBox
 Brazilië
 Brazilië
@@ -86,7 +86,7 @@ Cello
 Charles Aznavour
 Cher
 Chester
-Chopin 
+Chopin
 Christian Olde Wolbers
 Clouseau
 Courtney Love
@@ -98,17 +98,17 @@ Dave Grohl
 Dave Stewart
 David Bowie
 David Bowie
-David Bowie 
+David Bowie
 David Robert Jones
 De 3 Biggetjes
 De heideroosjes
 De Marseillaise
 De Nieuwe Snaar
 De Norderney
-De Romeos 
+De Romeos
 Def P
 Derick Green
-Detroit 
+Detroit
 Dexter Holland
 Diana Ross
 Didgeridoo
@@ -117,24 +117,24 @@ Doe Maar
 Doe Maar
 Dolby Surround
 Don Henley
-Don Mclean 
+Don Mclean
 Donovan
 Doornroosje
 drie
-Drs. P 
+Drs. P
 Duitsland
 Duke Ellington
 Eagles
 Ebony and Ivory
 Eddie Vedder
-Eddy Planckaert 
+Eddy Planckaert
 Eddy Wally
 Eddy Wally
-Eddy Wally 
+Eddy Wally
 Een Argentijn
 Een eenzaam huisje
 Elektrische gitaar
-Elephant Man 
+Elephant Man
 Elevation
 Ellen Foley
 Elton John
@@ -151,7 +151,7 @@ Eurythmics
 Eurythmics
 Evil Empire
 Faith Evans
-Faith No More 
+Faith No More
 Fats Domino
 Fluiten
 Foo Fighters
@@ -165,7 +165,7 @@ Gavin Rossdale
 Gavin Rossdale
 Geffen
 Geike Arnaert
-Gene Pitney 
+Gene Pitney
 Georg Friedrich Händel
 George Gershwin
 George Michael
@@ -173,7 +173,7 @@ Giacomo Puccini
 Gitaar
 Glenn Miller
 Gooi wat in m'n schoentje
-Graceland 
+Graceland
 Guy Swinnen
 Hard Rock
 Hepie en Hepie
@@ -185,7 +185,7 @@ Huub van der Lubbe
 Huygebaert
 Ierland
 Ierland
-Ierse 
+Ierse
 Ike
 Ike Turner
 Imagine
@@ -194,7 +194,7 @@ In the Year 2525
 Inspector morse
 Jack Jersey
 J'aime la Vie
-James 
+James
 Jan Veerman
 Jan Wayne Patti Smidt
 Janet
@@ -205,21 +205,21 @@ Jerry Lee Lewis
 Jimi Hendrix
 Jimi Hendrix
 Jimmy B
-Jimmy Page  
+Jimmy Page
 Joe Cocker
 Joerie Fransen
 Johann Sebastian Bach
 John Fogerty
 John Fogerty
-Johnny Hallyday 
-Johnny Jackson 
+Johnny Hallyday
+Johnny Jackson
 Johnny Logan
 Jonathan Davis
 Joost Zwegers
 Judkins Steveland
 Juist
 Jukebox
-Kakkerlak 
+Kakkerlak
 Karaoke
 Karate
 Karen, Kathleen, Kristel
@@ -227,11 +227,11 @@ Katastroof
 Keith Flint
 Klarinet
 Klarinet
-Kolonel Parker 
+Kolonel Parker
 Kortjakje
 Kunstmatige mist
 Kurt Cobain
-Kus  
+Kus
 Kylie Minogue
 La Brabançonne
 Laat het gras maar groeien
@@ -250,10 +250,10 @@ LuLu
 Madonna
 Madonna
 Madonna
-Madonna 
+Madonna
 Madonna Louise Ciccone
 Maharishi Mahesh Yogi
-Making Your Mind Up 
+Making Your Mind Up
 Marc Sleen
 Maria Lourdes
 Mariette en Marina
@@ -266,15 +266,15 @@ Maurice Ravel
 Maverick
 Megadeth
 Met oude wijven
-Metallica 
+Metallica
 Michael Jackson
 Michael Jackson
 Michael Jackson
-Michael Jackson 
+Michael Jackson
 Michel Follet
 Mijn vaderland
 Mink de Ville
-Mireille Matthieu 
+Mireille Matthieu
 Monday
 Monique Sluyter
 Montserrat Caballé
@@ -282,7 +282,7 @@ Mozart
 Mr. Slowhand
 Muddy Waters
 Music Television
-Muziek 
+Muziek
 Napoleon
 Napoleon
 Nar
@@ -292,7 +292,7 @@ Neen, een Oostenrijkse
 Nelly
 Nergens
 Nicole
-Niemand 
+Niemand
 Nul
 Oetze Verschoor
 On the dock
@@ -303,7 +303,7 @@ Opstaan en weer doorgaan
 Ozewiezewoze, Wiezewalla, Kristalla
 Ozzy Osborne
 Paling sound
-Paris-Las Vegas 
+Paris-Las Vegas
 Parlando
 Partituur
 Patsy Kensit
@@ -335,7 +335,7 @@ Roger Daltrey
 Rolling Stones
 Ronan Keating
 Ronny James Dio
-Ronny King 
+Ronny King
 Rory Galagher
 Ruben Carter
 Sandrine
@@ -347,7 +347,7 @@ Sean Combs
 Shirley Manson
 Single
 SISTER
-Sneeuwwitje 
+Sneeuwwitje
 Solo-optreden
 Sopraan
 Soulsister
@@ -357,7 +357,7 @@ Stevie Wonder
 Stewart
 Stijn Streuvels
 Sting
-Suezkanaal 
+Suezkanaal
 Supertramp
 Suzanne Vega
 Tchaikovsky
@@ -367,7 +367,7 @@ Tenor
 Tenor
 Thake That
 The Beatles
-The Beatles  
+The Beatles
 The Bee Gees
 The Championettes
 The Championettes
@@ -401,7 +401,7 @@ Vangelis
 Venus
 Vera Lynn
 Vet
-Videoclip 
+Videoclip
 Vier
 Vier
 Vijftig
@@ -414,8 +414,8 @@ Willy Degieter
 Willy Lambrecht
 Wolfgang Amadeus
 Wonderful Tonight
-Woodstock 
-XTC 
+Woodstock
+XTC
 Yesterday
 Zach De La Rocca
 ZZ Top

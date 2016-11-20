@@ -11,11 +11,11 @@
 100
 101
 101
-Bij verkoudheid 
+Bij verkoudheid
 A.D. Hildebrand
 Abe - Abraham
 Abraracourcix
-Abu 
+Abu
 Acht
 Adhemar
 Aladdin
@@ -58,14 +58,14 @@ Billie Turf
 Blauw
 Blauw
 Blauw
-Blauw 
+Blauw
 Bobbie
 Bobbie
 Boes
 Bolhoed
 Boma Worst
 Bouli
-Boze wolf 
+Boze wolf
 Brock
 Brussel
 Buck Danny
@@ -77,12 +77,12 @@ Calimero
 Cars
 Céleste
 Charel Cambré
-Charel Cambré 
+Charel Cambré
 Charizard
 Choco
 Choco
 Circus
-Clownvis 
+Clownvis
 Coyote
 Croquet
 Dagobert
@@ -102,13 +102,13 @@ De Romeinen
 De Simpsons
 De Smurfen
 De Verschrikkelijke
-De Wakkere Muis 
+De Wakkere Muis
 Deens
 Dick Bruna
 Dino
 Dirk Stallaert
 Disneyland
-Doornroosje 
+Doornroosje
 Doortje
 Dopey
 Draak
@@ -124,7 +124,7 @@ Een dagschotel
 Een duif
 Een frietkot
 Eeyore
-Elmer Fudd 
+Elmer Fudd
 Erwt
 Eufrazie & Cesar
 Ever Meulen
@@ -152,7 +152,7 @@ Gerard Alsteens
 Geronimo Stilton
 Gerrit de slak
 Goofy
-Goscinny en Uderzo 
+Goscinny en Uderzo
 Gravin van Stiepelteen
 Gravin van Stiepelteen
 Groningen
@@ -169,7 +169,7 @@ Hamlet
 Hank Azaria
 Hans
 Hec Leemans
-Heks 
+Heks
 Herman Van Veen
 Het gat in de kaas
 Het gouden paard
@@ -195,9 +195,9 @@ Jansen & Janssen
 Japie Krekel
 Jasmine
 Jean Roba
-Jef 
+Jef
 Jef Nys
-Jef Nys 
+Jef Nys
 Jef Patat
 Jeremias
 Jeremias
@@ -211,10 +211,10 @@ Johan
 Joley Jumper
 Jolly Jumper
 Jommeke
-Jon 
+Jon
 Kalmthout
 Kapitein Haddock
-Kapitein Haddock 
+Kapitein Haddock
 Kapitein Oliepul
 Kasteel van Horst
 Katrien
@@ -222,22 +222,22 @@ Katrien
 Kerncentrale
 Kiekeboe
 Kleine Robbe
-Krimson 
+Krimson
 Krokante Krab
 Krtek of Het Molletje
 Kuifje
-Kwabbernoot 
+Kwabbernoot
 Kwak en Boemel
-Kwak en Boemel 
+Kwak en Boemel
 Kwik, Kwek & Kwak
 Laalaa
-Largo Winch 
+Largo Winch
 Leopold Vermeiren
 Lezen
 Lilliput
 Lindgren
 Loch Lomond
-Luc Zeebroek 
+Luc Zeebroek
 Lucky Luke
 Lucky Luke
 Luieren
@@ -273,11 +273,11 @@ Molensloot
 Monterey Jack
 Morris
 Mowgli
-Mowgli 
+Mowgli
 Muffin
-Muffin 
+Muffin
 Musti
-Muttley 
+Muttley
 Nabucco en Donosor
 Nana
 Natasja
@@ -288,13 +288,13 @@ Nero & Co
 Nesten
 Nr. 17
 Obelix
-Obelix 
-Octo Tentakels 
+Obelix
+Octo Tentakels
 Olifant
 Oom
 Oom Dagobert
 Oom Dagobert
-Orbit City 
+Orbit City
 Oude Fiets
 Panoramix
 Panoramix
@@ -302,15 +302,15 @@ Pekkie
 Pekkie
 Petatje
 Peter Pan
-Petoetje 
+Petoetje
 Peyo
 Philipe
 Pierre Culliford
-Pixar 
+Pixar
 Plastieken walvis
-Plastieken walvis 
+Plastieken walvis
 Pluis
-Pom 
+Pom
 Pompoen
 Professor Gobelijn
 Professoren
@@ -330,7 +330,7 @@ Robert van der Kroft
 Roberto Rastapopoulos
 Rood
 Rood
-Rood 
+Rood
 Sapperdeboere
 Sapperdeboere
 Saxofoon
@@ -362,7 +362,7 @@ Steven Sterk
 Stro
 Strooien dakje
 Sus Antigoon
-Suske & Wiske 
+Suske & Wiske
 Sylverster
 Sylvester
 Teddy Ruxpin
@@ -373,7 +373,7 @@ The Pussycat
 Theepot
 Theo Flitser
 Theofiel
-Thunderbirds 
+Thunderbirds
 Tin Tin
 Tinkelbel
 Tinkerbell
@@ -386,19 +386,19 @@ Toverdrank
 Toy Story
 Transformers
 Troetelbeertjes
-Urbanus 
+Urbanus
 Ursula
-Van Der Kasseien 
+Van Der Kasseien
 Van Der Neffe
 Vanderkasseien
 Vanderslagsmulders
 Voetbal
 Voetballers
-Vrouwtje Theelepel 
+Vrouwtje Theelepel
 Wall-E
 Wasbeertje
 Wendy
-Wenkbrauw 
+Wenkbrauw
 Whisky
 Wickie de Viking
 William van Cutsem

@@ -48,10 +48,10 @@
 20-Feb-86
 86400
 100101
-0.03%  
+0.03%
 1 biljoen meter (1012 m)
 1 maand
-100°C 
+100°C
 11 - 20 km/h
 12 Maanden
 1-5 km/h
@@ -64,7 +64,7 @@
 22 maanden
 28 dagen
 300 m/s
-300 ton 
+300 ton
 30000 °C
 31-40 km/h
 4 ºC
@@ -79,10 +79,10 @@
 800 jaar
 90°
 Aal
-Aardbei  
+Aardbei
 Aardbevingen
 Aarde
-AB  
+AB
 Acetometer
 Achter boten zwemmen
 Achterpoten
@@ -93,7 +93,7 @@ ademen
 Aërodynamica
 Aërofobie
 Ag
-AIDS 
+AIDS
 Al rechtstaande
 Albatros
 Alexander Graham Bell
@@ -106,12 +106,12 @@ Alvleesklier
 Amalgaam
 Amd
 Amfibie
-Amfibieën 
+Amfibieën
 Ampère
 Ampère
 Andesgebergte
 Anemonen
-Angel 
+Angel
 Angst voor mensen
 Anode
 Anorexia
@@ -119,7 +119,7 @@ Antibiotica
 Anticonceptiepil
 Antilope
 Aorta
-Aorta 
+Aorta
 Apollo 11
 Appels
 Argon
@@ -127,9 +127,9 @@ ARPANET
 Aspirine
 Aspirine
 Assymetric digital subscriber line
-Astronomie 
+Astronomie
 Atoombom
-au 
+au
 Audio Visual
 Australië
 Auxanometer
@@ -142,21 +142,21 @@ Ballistiek
 Bamboe
 Bamboe
 Bamboe
-Bamboe 
+Bamboe
 Barometer
 Batterij
 Bayerse Motor Werke
-Beer 
+Beer
 Belgica
 Belladonna
 Benjamin Franklin
 Beren
 Berk
-Berk 
+Berk
 Bertrand Russell
 Bestuiving
 Bever
-Bever 
+Bever
 Bibliomanie
 Big Bang
 Bij
@@ -165,7 +165,7 @@ Bijen
 Bijziendheid of myopie
 Bissectrice
 Bitter
-blad 
+blad
 bladeren van bomen
 Bladluizen
 Blauw
@@ -173,7 +173,7 @@ Blauwe Vinvis
 Blazen
 Bliksem
 Blindedarm
-Bloeddruk 
+Bloeddruk
 Bloem
 Bloembol
 Blond
@@ -186,10 +186,10 @@ Braille
 Brandblaren
 Brandstofmengsel
 Brandwonden
-Breken 
+Breken
 broeikasgassen
 Bromelia
-Brons 
+Brons
 Bruggen oversteken
 Bruin
 Burlen
@@ -208,7 +208,7 @@ CD
 CFK’s
 Chang
 Charles Darwin
-Charles Lindbergh 
+Charles Lindbergh
 Chemische reactie
 Chihuahua
 Chili
@@ -216,7 +216,7 @@ China
 China
 Chinees klokje
 Chlorofyl
-Chow Chow 
+Chow Chow
 Chronologie
 Chroom
 Cicero
@@ -250,12 +250,12 @@ Diamant
 Diameter
 Diffusie
 Digibeet
-Digitalis 
+Digitalis
 Dijbeen
 Dijbeen
 Dikkopje
 Dioptrie
-Dirk Frimout  
+Dirk Frimout
 DNA
 DNA
 Dogmatiek
@@ -274,7 +274,7 @@ Drijfzand
 Drosometer
 Duim
 Dvd
-Eclips 
+Eclips
 Edelweiss
 Edelweiss
 Edison
@@ -284,8 +284,8 @@ Een
 Een
 Een
 Een
-Eén 
-Een  
+Eén
+Een
 Een halve
 Een kam
 een vlinder
@@ -297,7 +297,7 @@ Elandtest
 Elaphe guttata
 Elektrum
 engerling
-Entrofobie 
+Entrofobie
 Epicentrum
 Epidermis
 Epileren
@@ -315,7 +315,7 @@ Expeditie
 Explorer 1
 Facetoog
 Fauna
-Fe 
+Fe
 Ferromagnetisch
 Fibonacci
 Filologie
@@ -329,7 +329,7 @@ Gallofobie
 garnalen uit de zee
 Gastromanie
 Gebruiken zuurstof
-Geel 
+Geel
 Geen
 Geen
 Geen
@@ -343,7 +343,7 @@ George Crum
 Gerontologie
 Gerst
 Geur
-Gevoel 
+Gevoel
 Gezaagd
 Giotto
 Giraf
@@ -351,7 +351,7 @@ Giraf
 Glaucoom
 Glazuur
 Goede zandbinders
-Googol  
+Googol
 Grafologie
 Gray
 Grein
@@ -364,7 +364,7 @@ Guthrie-test
 H
 H2O
 H5N1
-Haar 
+Haar
 Hagedis
 Hagedis
 Hagedis
@@ -377,20 +377,20 @@ Helium
 Hemofilie
 Henry
 Herbivoren
-Herbivoren 
+Herbivoren
 Heremiet
 Hermafrodiet
 Hersenen
 Hersenen
 Hersenen
-Hert 
-Hert  
+Hert
+Hert
 Hiel
 Hinde
 Hippocrates
 Hippocrates
 Hiroshima
-Hiroshima 
+Hiroshima
 Homarium
 Hond
 Hond
@@ -402,7 +402,7 @@ Honing
 Hoofd
 Hoofdpijn
 Hovercraft
-Hubble 
+Hubble
 Huid
 Huisvlieg
 Hun vrouw bedriegen
@@ -419,7 +419,7 @@ IJsbeer
 IJzer aantrekken
 In 1980.
 in de buidel van het mannetje
-Indiase 
+Indiase
 Infanticide
 Inktvis
 Insecten
@@ -430,7 +430,7 @@ Integraal
 Intelligent Design
 Iris
 Isaac Newton
-Isolatie 
+Isolatie
 Ivoor
 Ivoor
 Ja
@@ -451,11 +451,11 @@ Ja
 Ja
 Ja
 Ja
-Ja 
-Ja  
+Ja
+Ja
 Jachtluipaard
 Jaguar
-Januari 
+Januari
 Janus
 Japan
 Jean Nicot
@@ -467,14 +467,14 @@ Juist
 Juist
 Jungle
 Jupiter
-Jupiter 
+Jupiter
 Kakkerlakken
 Kalf
 Kalkar
 Kameel
 Kameleon
 Karaat
-Keizerspinguïn 
+Keizerspinguïn
 Kelk
 Kelkbladeren
 Kelvin
@@ -486,7 +486,7 @@ Kieuwen
 Kikkers
 Kinine
 Kitten
-Kiwi 
+Kiwi
 Klaproos
 Klepperen
 Kleurenblind
@@ -495,8 +495,8 @@ Knalgas
 Kolibrie
 Kolonie
 Kolonie
-Komeet van Halley 
-Konijn 
+Komeet van Halley
+Konijn
 Konijnen
 Konijnen en papegaaien
 Koningscobra
@@ -509,11 +509,11 @@ Krokodil
 Krokodillen
 Krokus
 Kruidje roer me niet
-Kurkeiken 
+Kurkeiken
 Kwal
 Kwal
 Kwallen bijten niet
-Kwik 
+Kwik
 Kynofobie
 Lachen
 Lalofobie
@@ -528,7 +528,7 @@ Lavendel
 Lebmaag
 Leeuw
 Leger
-Legionellabacterie 
+Legionellabacterie
 Lengtemaat
 Lens
 Leukemie
@@ -536,8 +536,8 @@ Lever
 Lever
 Lever
 Lever
-Lichtjaar 
-Lichtjaar 
+Lichtjaar
+Lichtjaar
 Longen
 Longziekte
 Lood
@@ -554,7 +554,7 @@ Luizen
 Lupa Capitolina
 Lynx
 Maag
-Maag 
+Maag
 Maagdenburg
 Maan
 Maan
@@ -565,21 +565,21 @@ Mannelijke beharing
 Mannetje
 Mars
 Mars
-Mars 
+Mars
 Masai
 Massa
 Masters & Johnson
 Mastodont
 Masturberen
-Mdma 
+Mdma
 Meanderen
 Megalomanie
 Melktanden
 Melktanden
 Melkzuur
-Meloen 
+Meloen
 Mens
-Mens 
+Mens
 Mensenvlees
 Mercurius
 Mercurius
@@ -590,7 +590,7 @@ Middernachtzon
 Milete
 Miljard
 Millennium
-Milt 
+Milt
 Modder
 Modem
 Moedermelk
@@ -602,7 +602,7 @@ Morfine
 Mpemba-effect (Naar de Tanzaniaanse student Erasto Mpemba, die het effect in 1963 opmerkte in de kookles, bij het invriezen van roomijs)
 Mug
 Muggen
-Muggen  
+Muggen
 Muilezel
 Murphy
 Murphy
@@ -612,14 +612,14 @@ Muskusrat
 Mythomanie
 N.A.S.A.
 Naar Europa.
-Nachtschadenfamilie 
+Nachtschadenfamilie
 Nagel
 Nanoseconde
 Nanoseconden
 Napalm
 Narcis
 Narcisme
-Narcisme 
+Narcisme
 Natuursteen
 Natuurwetenschappen
 Nautiek
@@ -632,7 +632,7 @@ Nee
 Nee
 Nee
 Nee
-Nee 
+Nee
 Nee, deze groeien juist in Zuid-Europa, van de bast word kurk gemaakt.
 Nee, een naaldboom
 Negen
@@ -642,7 +642,7 @@ Neonatologie
 Neptunus
 NH3
 Niagara
-Niezen 
+Niezen
 Nijlpaard
 Nijlpaard
 Niklaus Wirth
@@ -652,20 +652,20 @@ Noordelijke Butskop
 Noorse stern
 Nul
 Nul
-Nul 
-Nul 
+Nul
+Nul
 Nylon
 Oase
 Octopus
-Oedipus 
+Oedipus
 Oester
-Oester 
+Oester
 Oestrogeen
 Ogen
 Ogen
 Ohm
 Ohm
-Okapi 
+Okapi
 Olifant
 Olifant
 Olifant
@@ -674,12 +674,12 @@ Olifant
 Olifant
 Olifant
 Olifant
-Olifant 
+Olifant
 Oligodendroglia
 Om te horen
 Om te lachen
 Om water te vinden
-Omnivoor  
+Omnivoor
 Oneindig
 Oog van de struisvogel
 Ooievaar
@@ -694,9 +694,9 @@ Oren
 Organisch
 Oriëntatiepunt voor ruimtevaarders
 Orkaan
-Orkaan 
+Orkaan
 Osmium
-Overgeven 
+Overgeven
 Ozon
 Ozonlaag
 Paardebloem
@@ -706,7 +706,7 @@ Pacemaker
 Pad
 Paddestoelen
 Paleontologie
-Paling 
+Paling
 Pancreas
 Pancreas
 Panter
@@ -723,14 +723,14 @@ Pauw
 Pb
 Pelvimeter
 Peren
-Periodiek stelsel 
+Periodiek stelsel
 Peru - Zuid Amerika
 Pezen
 Pi
 Pigment
 Pinda
 Pinguïn
-Piranha 
+Piranha
 Plantkundige
 Platte zee-egel
 Pleinvrees
@@ -743,12 +743,12 @@ Poesta
 Polen
 Polio
 Poollicht
-Poriën 
-Potvis 
+Poriën
+Potvis
 PRIAPISME
 Priemgetal
 Programmeertalen
-Pruimen 
+Pruimen
 Psychologie
 Pupillen
 Pygmee
@@ -757,7 +757,7 @@ Python
 Quotiënt
 Rabiës
 Radio detection and ranging
-Radioactiviteit  
+Radioactiviteit
 Raid
 Raket
 Random Access Memory
@@ -771,13 +771,13 @@ Regenboog
 Registers
 Rekel
 Relativiteitstheorie
-Repetitive Strain Injury 
+Repetitive Strain Injury
 Reptiel
 Reptielen
 Reu
 Robert Koch
 Rode hond
-Roedel 
+Roedel
 Roestvrij staal
 Röntgenstralen
 Rorschach
@@ -790,12 +790,12 @@ Ruggengraat
 Sabeltandtijger
 Salpeterzuur
 Satelliet
-Satelliet 
+Satelliet
 Saturnus
 Saturnus
 Schaal van Mohs
 Schaal van Richter
-Scheurbuik of scorbuut 
+Scheurbuik of scorbuut
 Schimmelpaard
 Schorpioen
 Schors
@@ -809,7 +809,7 @@ Simon van der Meer
 Sir Edmund Hillary
 Slagaders
 Slagtanden
-Slangen 
+Slangen
 Slechter
 Sleutelbeen
 Slikken
@@ -820,7 +820,7 @@ Snelheid van het geluid
 Sociologie
 Software
 Spaakbeen
-Spaceshuttle 
+Spaceshuttle
 Spier
 Spin
 Spinnen
@@ -840,7 +840,7 @@ Struisvogel
 Struisvogel
 struisvogel
 Struisvogel
-Struisvogel  
+Struisvogel
 Stuifmeel
 Tanden
 Tanden
@@ -849,9 +849,9 @@ Teef
 Teelballen
 Tele- of Psychokinese
 Temperatuur
-Temperatuur  
+Temperatuur
 Terrarium
-Testikels 
+Testikels
 Testosteron
 Thomas Edison
 Tjilpen
@@ -868,7 +868,7 @@ Twee
 Twee
 Twee
 Twee penissen
-Twijgen 
+Twijgen
 Twintig
 Uil
 Ultra Violet
@@ -883,7 +883,7 @@ Venus
 Venus
 Venus
 Venus
-Venus 
+Venus
 Verbanden bij aanraken
 Vesalius
 Vet
@@ -894,7 +894,7 @@ Vier
 Vier
 Vierkante meter
 Vijgenwesp
-Vingerafdruk 
+Vingerafdruk
 Vingers
 Vis
 Vissen
@@ -909,9 +909,9 @@ Vleermuis
 Vleermuis
 Vleermuis
 Vleermuis
-Vleermuis 
+Vleermuis
 Vleesetend dier
-Vlierbes  
+Vlierbes
 Vlo
 Vlo
 Vlo
@@ -925,38 +925,38 @@ Vogelbekdier
 Volt
 Vos
 Vos
-Vostok 1 
+Vostok 1
 Vrouw
 Vrouwelijk paard
 Vrucht
-Vruchtbeginsel 
+Vruchtbeginsel
 Walrus
 Walrus
 Walvishaai
 Water
 Water
 Water
-Water 
-Water 
+Water
+Water
 Waterlelies
 Waterval
 Watt
 Web
 Weer
 Wenkbrauwen
-Werksters 
+Werksters
 Wezel
 Wind
 Winden
 Winden
 Windows 98
-Windsterkte 
+Windsterkte
 Wisent
 Wisent
 Wiskunde
 Wit
 Witte neushoorn
-Wolf 
+Wolf
 Worp
 Yard
 Yoghurt
@@ -964,7 +964,7 @@ Zaterdag
 Ze worden kleiner
 Ze zijn giftig
 Zeepaardje
-Zeepaardje 
+Zeepaardje
 Zeer jonge palingen
 Zeewier
 Zes
@@ -977,7 +977,7 @@ Zeven, zoals bijna alle zoogdieren.
 Zichzelf opeten
 ziektekiemen voorkomen
 Zig-Zag
-Zoet 
+Zoet
 Zoethout
 Zoetstof
 Zon
@@ -987,12 +987,12 @@ Zonlicht
 Zout
 Zout
 Zout
-Zuiden 
+Zuiden
 Zuidpool
 Zuidwest
-Zuurtegraad bodem 
+Zuurtegraad bodem
 Zwaar zeewater
 Zwart
 Zwart
 Zwavel
-Zwerm 
+Zwerm

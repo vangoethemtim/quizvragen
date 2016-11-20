@@ -10,7 +10,7 @@ A
 Aachen
 Aarlen
 Aboriginals
-Aboriginals 
+Aboriginals
 Acapulco
 Acropolis
 Addis Abeba
@@ -23,14 +23,14 @@ Afrika
 Afrika
 Afrika
 Afrika
-Afrika 
+Afrika
 Afsluitdijk
 Akaba
 Alaska
 Alaska
 Alaska
 Alaska
-Alaska 
+Alaska
 Albanië
 Algarve
 Algarve
@@ -39,10 +39,10 @@ Alzette
 Amazone
 Amazone
 Amazone
-Amazone 
-Amazonegebied 
+Amazone
+Amazonegebied
 Amblève
-Amel 
+Amel
 Amerika
 Amerika
 Amersfoort
@@ -50,19 +50,19 @@ Amiens
 Amsterdam
 Amsterdam
 Amsterdam
-Amsterdam 
-Amsterdam 
+Amsterdam
+Amsterdam
 Anchorage
 Andesgebergte
 Andesgebergte
 Andorra
-Ankara 
+Ankara
 Antananarivo
 Antarctica
 Antarctica
 Antarctica
 Antarctica
-Antarctica 
+Antarctica
 Antwerpen
 Antwerpen
 Antwerpen
@@ -74,7 +74,7 @@ Apeldoorn
 Apennijnen
 Ararat
 Arctica
-Argentina 
+Argentina
 Argentinië
 Argentinië
 Arizona
@@ -85,7 +85,7 @@ AsPUURSge in Puurs
 Athene
 Athene
 Atlantische
-Atlantische 
+Atlantische
 Atlantische oceaan
 Austin
 Australië
@@ -95,10 +95,10 @@ Australië
 Australië
 Australië
 Australië
-Australië 
+Australië
 Azië
 Azië
-Azië 
+Azië
 Azteken
 Bagdad
 Bahamas
@@ -107,11 +107,11 @@ Baltische Zee
 Baltische Zee
 Bandar Seri Begawan
 Bangladesh
-Bangladesh 
+Bangladesh
 Barentszzee
 Baskenland
 Batavia
-Beijing 
+Beijing
 België
 België
 België
@@ -158,7 +158,7 @@ Canada en Amerika
 Canal du Midi
 Canberra
 Canberra
-Casablanca 
+Casablanca
 Catalaans
 Chili
 Chili
@@ -174,19 +174,19 @@ Colosseum
 Constantinopel
 Copacabana
 Costa Blanca
-Costa Blanca 
+Costa Blanca
 Costa de la Luz
 Costa De La Luz
 Costa Rica
 Cuba
 Cyprus
 Cyprus
-Damascus 
+Damascus
 De brug van Avignon
-De Chinese Muur 
+De Chinese Muur
 De oudste ter wereld
 De Rupel
-De Spaanse Vlag 
+De Spaanse Vlag
 De Straat van Gibraltar
 Dendermonde
 Dendermonde
@@ -198,21 +198,21 @@ District Of Columbia
 Dode zee
 Donau
 Donau
-Donau 
-Donau  
+Donau
+Donau
 Donkmeer
 Drie
 Dublin
 Dublin
 Duits
-Ecomare 
+Ecomare
 Ecuador
 Ecuador
 Egeïsche Zee
 Egypte
 Egypte
 Egypte
-Egypte 
+Egypte
 Eiland
 El Gouna
 El Gouna
@@ -227,7 +227,7 @@ Esch-sur-Alzette
 Ethiopië
 Eufraat
 Europa
-Evenaar 
+Evenaar
 Evere - Brussel
 Everglades
 Fatima
@@ -241,7 +241,7 @@ Frankrijk
 Frankrijk
 Frankrijk
 Frankrijk
-Frankrijk 
+Frankrijk
 Freetown
 Freetown
 Gabon
@@ -249,7 +249,7 @@ Ganges
 Ganges
 Gent
 George Maduro
-Georgetown 
+Georgetown
 Gibraltar
 Gobi
 Golf van Akaba
@@ -259,7 +259,7 @@ Griekenland
 Groenland
 Groot-Brittannië
 Grote
-Grote 
+Grote
 Hamburg
 Hamilton
 Hamilton
@@ -267,32 +267,32 @@ Hasselt
 Hawaï
 Hawaï
 Hawaï
-Hawaï 
+Hawaï
 Hellas
 Helsinki
 Helsinki
 Himalaya
 Honden
 Hongarije
-Hongarije 
+Hongarije
 Honolulu
 Honolulu
 Honshu
 Hoogstraten
 Huis van Napoleon
-Ierland 
+Ierland
 Ierse Zee
 Ierse Zee
 IJsbergen
 IJsland
 IJszee
-IJzer 
+IJzer
 India
 Indiana
 Indische
 Indische oceaan
 Indische Oceaan
-Indus 
+Indus
 Irak
 Israël
 Israël
@@ -306,11 +306,11 @@ Italië
 Italië
 Italië
 Italië
-Izmir 
+Izmir
 Japan
 Jeruzalem
 Kaspische Zee
-Kattegat 
+Kattegat
 Kreta
 Kyoto
 Le Havre
@@ -318,11 +318,11 @@ Leie
 Leie en  Schelde
 Leningrad
 Leonardo Da Vinci
-Lesbosiërs 
+Lesbosiërs
 Libië
 Liffey
 Limoges
-Lindau  
+Lindau
 Lissabon
 Liverpool
 Ljubljana
@@ -344,7 +344,7 @@ Lyon
 Maan
 Maas
 Macao
-Macao 
+Macao
 Mahé
 Mali
 Mallorca
@@ -361,7 +361,7 @@ Mekka
 Mexico
 Mexico
 Mexico
-Mexico 
+Mexico
 Mexico Stad
 Middellandse Zee
 Mississippi
@@ -371,7 +371,7 @@ Monaco
 Monaco
 Monaco
 Monaco Ville
-Monegask 
+Monegask
 Mongolië
 Mont Blanc
 Montevideo
@@ -381,7 +381,7 @@ Moskou
 Moskou en Vladivostok
 Mount Everest
 Mount Rushmore
-Mount Rushmore 
+Mount Rushmore
 München
 Myanmar
 Mzizima
@@ -394,7 +394,7 @@ Neen
 Nepal
 Nepal
 Nepal
-New Amsterdam  
+New Amsterdam
 New York
 New York
 New York
@@ -403,7 +403,7 @@ Nicaragua
 Nicaragua
 Nieuw Amsterdam
 Nigeria
-Nigeria 
+Nigeria
 Nijl
 Nijl
 Nijmegen
@@ -418,7 +418,7 @@ Noorwegen
 Noorwegen
 Normandië
 Normandië
-Normandië 
+Normandië
 Nul
 Nyiragongo
 Oahu - Hawaï-archipel
@@ -433,9 +433,9 @@ Oslo
 Ottawa
 Paaseiland
 Palma
-Pamplona 
+Pamplona
 Panama City
-Panamakanaal 
+Panamakanaal
 Papeete
 Papoea
 Parijs
@@ -449,7 +449,7 @@ Patagonië
 Patagonië
 Pierre-Paul Riquet
 Piraeus
-Pisa 
+Pisa
 Pittsburgh
 Polen
 Polynesië
@@ -458,16 +458,16 @@ Portugal
 Portugal
 Portugal
 Portugal
-Portugal 
+Portugal
 Praag
 Pretoria - Kaapstad - Bloemfontein
 Pyreneeën
-Pyreneeën 
+Pyreneeën
 Quebec
 Québec
 Rabat
-Rabat  
-Rembrandttoren 
+Rabat
+Rembrandttoren
 Reykjavik
 Reykjavik
 Rhode Island
@@ -482,7 +482,7 @@ Rome
 Rome
 Rome
 Rome
-Rome 
+Rome
 Rotterdam
 Rotterdam
 Rusland
@@ -493,7 +493,7 @@ Sahara
 Sahara
 Sahara
 Sahara
-Sahara 
+Sahara
 Saigon
 San Francisco
 San Marino
@@ -505,7 +505,7 @@ Scandinavië
 Schreierstoren
 Seine
 Seoel
-Serengeti Nationaal Park 
+Serengeti Nationaal Park
 Severn
 's-Hertogenbosch
 Siberië
@@ -513,7 +513,7 @@ Sicilië
 Sicilië
 Sicilië
 Sicilië
-Singapore 
+Singapore
 Sint-Petersburg
 Sjanghai
 Sjanghai
@@ -531,18 +531,18 @@ Straat van Bonifacio
 Straat van Gibraltar
 Straat van Messina
 Suez
-Suezkanaal 
+Suezkanaal
 Taag - Duro - Ebro
 Taalgrens
-Tabasco 
+Tabasco
 Taipei
 Tallahassee
 Tallinn
 Tanzania
-Tanzania  
+Tanzania
 Tasmanie
 Tbilisi
-Tegelen 
+Tegelen
 Tennessee
 Tenochtitlan
 Texas
@@ -560,7 +560,7 @@ Titicacameer
 Tokio
 Tongeren
 Tongeren
-Toronto 
+Toronto
 Toulouse
 Transsiberische spoorlijn
 Tripoli
@@ -576,7 +576,7 @@ Utrecht
 Utrecht
 Vaduz
 Van Diemensland
-Vancouver 
+Vancouver
 Varkensbaai
 Vaste land
 Vaticaanstad
@@ -593,7 +593,7 @@ Venezuela
 Versailles
 Vesuvius
 Vesuvius
-Vesuvius 
+Vesuvius
 Victoria
 Vier
 Vijftig
@@ -611,14 +611,14 @@ Wolga
 Wolga
 Yangtze
 Yangtze
-Zaïre 
+Zaïre
 Zee
 Zeeland
 Zeus
 Zeven
 Zeven
 Zilvermeer
-Zilvermeer 
+Zilvermeer
 Zimbabwe
 Zoniënwoud
 Zout
