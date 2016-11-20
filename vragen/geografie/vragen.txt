@@ -27,7 +27,6 @@ Van welk continent is de zuidelijkste punt Kaap Agulhas
 Welke zeewering, voorzien van bunkers, wordt m.n. in literatuur m.b.t. de tweede wereldoorlog, ook nog de dodendam genoemd
 Welke stad is de enige havenstad van Jordanië
 Wat is de grootste staat van Amerika
-Wat is de grootste staat van Amerika
 Welke Amerikaanse staat heeft de kleinste populatie
 Welke Amerikaanse staat heeft de meeste kustlijn
 Welke Amerikaanse staat heeft de langste grens met Canada
@@ -50,7 +49,6 @@ Waar staat de grootste Gotische kathedraal van Frankrijk
 Europese hoofdstad is het oudste gedeelte op 96 eilanden gebouwd
 In welke hoofdstad vind je het Dam plein
 Welke stad is bekend als Het Venetie van het Noorden
-Wat is de hoofdstad van Nederland
 Wat is de hoofdstad van Nederland
 Wat is de grootste stad van Alaska
 Wat is 's werelds langste bergketen
@@ -156,7 +154,6 @@ Wat is het 2de grootste land in de wereld
 Welk land heeft de meeste kustlijn
 Welke twee landen delen met elkaar de langste grens ter wereld
 Via welke rivier in Frankrijk kan je van de Middellandse zee naar de Atlantische oceaan varen
-Wat is de hoofdstad van Australië
 Wat is de hoofdstad van Australië
 Welke noord Afrikaanse zeehaven haar Spaanse naam betekent vrij vertaald Witte huis
 Wat is de officiële taal in Andorra
@@ -291,13 +288,11 @@ Waar ligt de streek Assam
 Van welke Amerikaanse staat is Indianapolis de hoofdstad
 In welke oceaan stroomt de Zambezi rivier uit
 In welke oceaan liggen de Seychellen
-In welke oceaan liggen de Seychellen
 Naar welke rivier werd India genoemd
 Wat is de huidige naam van Mesopotamië
 In welk land vindt men de havenstad Haifa
 Welk land grenst aan Libanon, Syrië, Jordanië en Egypte
 Hoe heet Constantinopel tegenwoordig
-Wat is de Toeristische hoofdstad van Turkije
 Wat is de Toeristische hoofdstad van Turkije
 Als je op de Po wilt varen, naar welk land moet je dan
 In welk land is de lazio region
@@ -551,7 +546,6 @@ Welk land heette vroeger Siam
 Hoe noemt de grootste rivier van Engeland
 Hoe noemt de hoofdstad van Bhutan
 Welke rivier stroomt door Rome
-Welke rivier stroomt door Rome
 Waar heeft de Dalai Lama zijn paleis
 Welke land word wel eens het dak van de wereld genoemd
 Hoeveel provincies heeft Canada
@@ -616,8 +610,6 @@ Waar kan je hooguit 75 mijl vanaf zijn in Engeland
 In welke Nederlandse provincie ligt het natuurgebied 'Het verdronken land van Saeftinge'
 Welke Griekse god is achterstevoren een belangrijk kanaal
 Hoeveel staten heeft Australië
-Hoeveel werelddelen zijn er
-Welk meer ligt in Mol
 Welk meer ligt in Mol
 Van wel land is Harare de hoofdstad
 Welk groot woud ligt bij Brussel

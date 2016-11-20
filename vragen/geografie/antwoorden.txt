@@ -30,7 +30,6 @@ Alaska
 Alaska
 Alaska
 Alaska
-Alaska
 Albanië
 Algarve
 Algarve
@@ -47,7 +46,6 @@ Amerika
 Amerika
 Amersfoort
 Amiens
-Amsterdam
 Amsterdam
 Amsterdam
 Amsterdam
@@ -156,7 +154,6 @@ Canada
 Canada
 Canada en Amerika
 Canal du Midi
-Canberra
 Canberra
 Casablanca
 Catalaans
@@ -290,13 +287,11 @@ IJzer
 India
 Indiana
 Indische
-Indische oceaan
 Indische Oceaan
 Indus
 Irak
 Israël
 Israël
-Istanbul
 Istanbul
 Istanbul
 Italië
@@ -551,7 +546,6 @@ Thailand
 Thames
 Thimpu
 Tiber
-Tiber
 Tibet
 Tibet
 Tien
@@ -616,8 +610,6 @@ Zee
 Zeeland
 Zeus
 Zeven
-Zeven
-Zilvermeer
 Zilvermeer
 Zimbabwe
 Zoniënwoud
